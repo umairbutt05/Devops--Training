@@ -1,5 +1,5 @@
 git init
 git status
 git clone
-git remote -v
-git checkout -b
+git remote -v to check the origin of repository
+git checkout -b it is used to switch the branch like from master/main to dev branch
